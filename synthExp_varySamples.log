@@ -1,0 +1,70 @@
+WARNING:root:noise: 7.5, n_reps: 10, n_tasks: 10, n_feats: 100, train_dim: 250, eps: (0.0, 0.0001)
+WARNING:root:noise: 7.5, n_reps: 10, n_tasks: 10, n_feats: 100, train_dim: 250, eps: (0.0, 0.0001)
+WARNING:root:Iteration: 0
+WARNING:root:Iteration: 1
+WARNING:root:Iteration: 2
+WARNING:root:Iteration: 3
+WARNING:root:Iteration: 4
+WARNING:root:Iteration: 5
+WARNING:root:Iteration: 6
+WARNING:root:Iteration: 7
+WARNING:root:Iteration: 8
+WARNING:root:Iteration: 9
+WARNING:root:R2:
+	single: 0.487636197488439, aggregate: 0.64105641135337, CI: 33.445613±3.307263%
+WARNING:root:MSE:
+	single: 93.40309141661362, aggregate: 65.40801034712655, CI: 29.443205±1.449485%
+WARNING:root:Aggregations: 2.0±0.0
+WARNING:root:FEATURES--> R2:
+	single: 0.487636197488439, aggregate: 0.6712688877500225, CI: 39.822628±3.420398%
+WARNING:root:MSE:
+	single: 93.40309141661362, aggregate: 59.84959333789663, CI: 35.362649±1.268365%
+WARNING:root:Aggregations: 3.43±0.175866
+WARNING:root:noise: 7.5, n_reps: 10, n_tasks: 10, n_feats: 100, train_dim: 100, eps: (0.0, 0.0001)
+WARNING:root:Iteration: 0
+WARNING:root:Iteration: 1
+WARNING:root:Iteration: 2
+WARNING:root:Iteration: 3
+WARNING:root:Iteration: 4
+WARNING:root:Iteration: 5
+WARNING:root:Iteration: 6
+WARNING:root:Iteration: 7
+WARNING:root:Iteration: 8
+WARNING:root:Iteration: 9
+WARNING:root:R2:
+	single: -125.80989935111225, aggregate: -125.80989935111225, CI: 0.0±0.0%
+WARNING:root:MSE:
+	single: 23030.110203695804, aggregate: 23030.110203695804, CI: 0.0±0.0%
+WARNING:root:Aggregations: 10.0±0.0
+WARNING:root:FEATURES--> R2:
+	single: -125.80989935111225, aggregate: -0.30445105571924946, CI: -99.160515±1.414396%
+WARNING:root:MSE:
+	single: 23030.110203695804, aggregate: 240.89427271377397, CI: 93.283458±1.751446%
+WARNING:root:Aggregations: 42.37±6.301737
+WARNING:root:noise: 7.5, n_reps: 10, n_tasks: 10, n_feats: 100, train_dim: 150, eps: (0.0, 0.0001)
+WARNING:root:Iteration: 0
+WARNING:root:Iteration: 1
+WARNING:root:Iteration: 2
+WARNING:root:Iteration: 3
+WARNING:root:Iteration: 4
+WARNING:root:Iteration: 5
+WARNING:root:Iteration: 6
+WARNING:root:noise: 7.5, n_reps: 1, n_tasks: 10, n_feats: 100, train_dim: 250, eps: (0.0, 0.0001)
+WARNING:root:Iteration: 0
+WARNING:root:Iteration: 7
+WARNING:root:noise: 7.5, n_reps: 10, n_tasks: 10, n_feats: 50, train_dim: 250, eps: (0.0, 0.0001)
+WARNING:root:Iteration: 0
+WARNING:root:Iteration: 8
+WARNING:root:Iteration: 9
+WARNING:root:R2:
+	single: 0.11639941622681549, aggregate: 0.5347182250890112, CI: -393.588758±949.274679%
+WARNING:root:MSE:
+	single: 170.13181566152838, aggregate: 89.79816879031895, CI: 46.072631±3.31971%
+WARNING:root:Aggregations: 2.8±0.463821
+WARNING:root:FEATURES--> R2:
+	single: 0.11639941622681549, aggregate: 0.6680038976163547, CI: -371.565055±1099.759303%
+WARNING:root:MSE:
+	single: 170.13181566152838, aggregate: 63.93429414016385, CI: 61.056401±1.683319%
+WARNING:root:Aggregations: 4.15±0.173933
+WARNING:root:noise: 7.5, n_reps: 10, n_tasks: 10, n_feats: 100, train_dim: 200, eps: (0.0, 0.0001)
+WARNING:root:Iteration: 0

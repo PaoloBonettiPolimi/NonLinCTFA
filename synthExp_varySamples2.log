@@ -1,0 +1,24 @@
+WARNING:root:noise: 7.5, n_reps: 10, n_tasks: 10, n_feats: 50, train_dim: 250, eps: (0.0, 0.0001)
+WARNING:root:Iteration: 0
+WARNING:root:Iteration: 1
+WARNING:root:Iteration: 2
+WARNING:root:Iteration: 3
+WARNING:root:Iteration: 4
+WARNING:root:Iteration: 5
+WARNING:root:Iteration: 6
+WARNING:root:Iteration: 7
+WARNING:root:Iteration: 8
+WARNING:root:Iteration: 9
+WARNING:root:R2:
+	single: 0.4185701882544923, aggregate: 0.5069337302299569, CI: 23.592708±3.478646%
+WARNING:root:MSE:
+	single: 70.10432537367431, aggregate: 59.439995686014065, CI: 14.94253±1.107453%
+WARNING:root:Aggregations: 2.0±0.0
+WARNING:root:FEATURES--> R2:
+	single: 0.4185701882544923, aggregate: 0.5185913719228591, CI: 26.625875±3.64229%
+WARNING:root:MSE:
+	single: 70.10432537367431, aggregate: 58.061596097724006, CI: 16.922951±1.055695%
+WARNING:root:Aggregations: 3.45±0.128152
+WARNING:root:noise: 7.5, n_reps: 10, n_tasks: 10, n_feats: 75, train_dim: 250, eps: (0.0, 0.0001)
+WARNING:root:Iteration: 0
+WARNING:root:Iteration: 1
